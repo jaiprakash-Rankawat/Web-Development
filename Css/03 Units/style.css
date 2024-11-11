@@ -1,0 +1,25 @@
+/* .jd{
+    background-color: blue;
+}
+.nilesh{
+    background-color: brown;
+}
+.sandeep{
+    font-size: 40px;
+}
+
+#rollNo{
+    background-color: aqua;
+    color: pink;
+} */
+
+header{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+div{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
