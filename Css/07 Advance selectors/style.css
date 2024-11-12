@@ -1,0 +1,48 @@
+/* multiple slector  */
+/* h1,h3{
+    color: red;
+}
+h2{
+    color: aqua;
+} */
+
+/* everything selector  */
+/* *{
+    background-color: aqua;
+    color: yellow;
+}
+
+tag selector 
+b{
+    font-size: 30px;
+    color: black;
+} */
+
+/* 1. class selector  */
+/* 2. id selector  */
+
+/* nested selector  */
+/* .radha{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+} */
+/* 
+div>div{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+div>p{
+    font-size: 30px;
+} */
+
+
+/* 1. id selector 
+2. class selector 
+3. everything selctor 
+4. multiple selector 
+5. tag selector 
+6. child selector  */

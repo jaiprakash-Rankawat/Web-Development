@@ -1,28 +1,17 @@
 *{
     margin: 0;
 }
-
-/* body{
-    background-color: blue;
-    background-image: url("image.jpg");
-    background-repeat: repeat-y;
-} */
-
-.image{
+.background{
     height: 100vh;
     width: 100vw;
     background-color: aqua;
     background-image: url("wallpaper.png");
-    /* background-repeat: repeat-x;
-    background-repeat: repeat-y; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-/* "" quotes */
-/* concept : body have hight and width */
 
 ul{
-    background-color: rgb(184, 185, 122);
+    background-color: aqua;
 }
